@@ -1,8 +1,13 @@
-Android Programming Project
+#Android Programming Project
 
-@vonSchmidt		![Telegram](telegram.me/zshulu)
-@elghali		![Telegram](telegram.me/elghali)
+##Authors
+@vonSchmidt	
+![Telegram](http://telegram.me/zshulu)
 
+@elghali
+![Telegram](http://telegram.me/elghali)
+
+##License
 
 Copyright 2015 zshulu & elghali
 
