@@ -2,10 +2,10 @@
 
 ##Authors
 @vonSchmidt	
-![Telegram](http://telegram.me/zshulu)
+[Telegram](http://telegram.me/zshulu)
 
 @elghali
-![Telegram](http://telegram.me/elghali)
+[Telegram](http://telegram.me/elghali)
 
 ##License
 
